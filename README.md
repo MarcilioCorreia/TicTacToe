@@ -1,2 +1,6 @@
-# jogo-da-memoria-musical
-Jogo da Memória de Instrumentos Musicais desenvolvido através de Java Script
+# TicTacToe
+
+- [x] Developed in JavaScript (JS)
+
+- By Marcilio Correia
+.: Developed and modified through the Web Dev Simplified Channel on Youtube.
