@@ -1,12 +1,37 @@
-# TicTacToe
+<h1 align="center">Tic-Tac-Toe</h1>
 
-- [x] Developed in JavaScript (JS)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/49158754/95499955-f3d0e080-099d-11eb-8564-c51d571afb82.png" width="500"/>
+</p>
 
-- By Marcilio Correia
-.: Developed and modified through the Web Dev Simplified Channel on Youtube.
+---
+## 📋 Index
+- [Project Description](#-Project-Description)
+- [The technologies used](#-The-Technologies-Used)
+- [Author](#-Author)
 
-![screenshot1](https://user-images.githubusercontent.com/49158754/86162522-d2db3280-bb06-11ea-9a75-328f6f864ba2.JPG)
+---
+<a name="-Project-Description"></a>
+## 🚀 Project Description
+<p>The Tic-Tac-Toe was developed through the <a href="https://www.youtube.com/watch?v=POX3dT-pB4E&ab_channel=TraversyMedia">Web Dev Simplified</a> Channel on Youtube.</p>
 
-![screenshot2](https://user-images.githubusercontent.com/49158754/86162529-d5d62300-bb06-11ea-8a62-fdac617a244f.JPG)
+--- 
+<a name="-The-Technologies-Used"></a>
+## 🛠️ The Technologies Used 
 
-![screenshot3](https://user-images.githubusercontent.com/49158754/86162537-d8387d00-bb06-11ea-8067-24571ab34ff6.JPG)
+The follow tools were used in this project:
+* HTML5
+* CSS3
+* JavaScript
+
+---
+<a name="-Author"></a>
+## Author
+<a href="https://www.linkedin.com/in/marciliocorreia/" title="Marcilio Correia"><img style="border-radius:50%" src="https://avatars0.githubusercontent.com/u/49158754?s=460&u=8d2c3e8f7e3441a6b150758a720e7e4379e36407&v=4" width="100px;" alt=""/></a>
+
+🚀 Developed by Marcílio Correia 👋 Feel free to connect!
+
+[![Gmail Badge](https://img.shields.io/badge/-marcilio.msc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcilio.msc@gmail.com)](mailto:marcilio.msc@gmail.com)
+
+
+<a href="https://www.linkedin.com/in/marciliocorreia/">![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/marciliocorreia/)</a>
