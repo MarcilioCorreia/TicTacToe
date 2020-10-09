@@ -13,7 +13,7 @@
 ---
 <a name="-Project-Description"></a>
 ## 🚀 Project Description
-<p>The Tic-Tac-Toe was developed through the <a href="https://www.youtube.com/watch?v=POX3dT-pB4E&ab_channel=TraversyMedia">Web Dev Simplified</a> Channel on Youtube.</p>
+<p>The Tic-Tac-Toe is a game for two players write either O or X in a pattern of nine squares. It is won by the first player who places three Os or three Xs in a straight line. It was developed through the <a href="https://www.youtube.com/watch?v=POX3dT-pB4E&ab_channel=TraversyMedia">Web Dev Simplified</a> Channel on Youtube.</p>
 
 --- 
 <a name="-The-Technologies-Used"></a>
